@@ -1,1 +1,1 @@
-alert(1);
+require("child_process").execFile("calc",function(){});
